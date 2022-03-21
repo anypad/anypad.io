@@ -67,7 +67,7 @@ export const upcomingProjects = [
     tokenPrice: "TBA",
     idoDate: "22 March 2022",
     twitter: "https://twitter.com/SupernovaVerse",
-    website: "https://sunday.games/supernova/",
+    website: "http://https.medium.com/p/834cffa19141/edit",
     telegram: "https://t.me/+jNNGMc-lkzJlMjZi",
     whitelist: "https://forms.gle/dqz1xB6Fz4T7jyaF8",
   },
