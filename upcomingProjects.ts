@@ -11,18 +11,7 @@ export const upcomingProjects = [
   //   telegram: "http://t.me/AmaraFinance",
   //   whitelist: "https://forms.gle/N9SkrNsJHKSaMBfA7",
   // },
-  {
-    title: "Fota",
-    description:
-      "FOTA is a AAA Metaverse Gaming Esport project under the Hybrid of MOBA-RPG that is integrated with MicrosoftMesh Tech",
-    targetRaise: "75k",
-    tokenPrice: "TBA",
-    idoDate: "TBA",
-    twitter: "https://twitter.com/fightoftheages",
-    website: "https://fota.io/",
-    telegram: "https://t.me/fota_groupchat",
-    whitelist: "https://forms.gle/bimERUwh1ts5z4XT9",
-  },
+  
   {
     title: "Animalia",
     description:
@@ -47,29 +36,5 @@ export const upcomingProjects = [
   //   telegram: "https://t.me/stman_official",
   //   whitelist: "",
   // },
-  {
-    title: "Crypcade",
-    description:
-      "CrypCade “is the Uber and Airbnb of Arcade”, being an economically sustainable Gaming/ Entertainment ecosystem.",
-    targetRaise: "100k",
-    tokenPrice: "TBA",
-    idoDate: "01 March 2022",
-    twitter: "https://twitter.com/CrypCade",
-    website: "https://crypcade.io/",
-    telegram: "https://t.me/CrypCade",
-    whitelist: "",
-  },
-  {
-    title: "Supernova",
-    description:
-      "Supernova is a sci-fi sandbox survival MMORPG in an open world featuring indirect controls and an open economy with play to earn mechanics!",
-    targetRaise: "100k",
-    tokenPrice: "TBA",
-    idoDate: "22 March 2022",
-    twitter: "https://twitter.com/SupernovaVerse",
-    website: "http://https.medium.com/p/834cffa19141/edit",
-    telegram: "https://t.me/+jNNGMc-lkzJlMjZi",
-    whitelist: "https://forms.gle/dqz1xB6Fz4T7jyaF8",
-  },
 
 ];
